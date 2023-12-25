@@ -3,7 +3,7 @@
 // element toggle function
 const elemToggleFunc = function (elem) { elem.classList.toggle("active"); }
 
-
+ 
 
 // navbar variables
 const navbar = document.querySelector("[data-navbar]");
